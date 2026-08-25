@@ -154,6 +154,7 @@ These coefficients indicate associations within the fitted model and should not 
 ## Power BI Dashboard
 
 An interactive Power BI dashboard was developed to provide a business-focused view of customer churn.
+ <img width="595" height="335" alt="dashboard" src="https://github.com/user-attachments/assets/ca322c95-7d38-40a3-a450-fa7e76c930bd" />
 
 # Dashboard KPIs
 
