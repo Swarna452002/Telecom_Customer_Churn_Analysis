@@ -87,14 +87,14 @@ The model was evaluated using:
 - Confusion Matrix
 - ROC-AUC
 
-### Model Performance
+## Model Performance
 
-  **|Metric | Result  |**
-  
-| Accuracy  | **79.45%** |
+| Metric | Result |
+|---|---:|
+| Accuracy | **79.45%** |
 | Precision | **62.24%** |
-| Recall    | **55.60%** |
-| ROC-AUC   | **84.43%** |
+| Recall | **55.60%** |
+| ROC-AUC | **84.43%** |
 
 The model achieved an ROC-AUC of **84.43%**, indicating good ability to distinguish between customers who churn and those who do not.
 
@@ -102,9 +102,10 @@ However, the recall of **55.60%** indicates that there is scope to improve the i
 
 ## Confusion Matrix
 
-**|Predicted: No Churn | Predicted: Churn |**
-| **Actual: No Churn** | 1,827 : 250   |
-| **Actual: Churn**    | 329   :  412  |
+| | Predicted: No Churn | Predicted: Churn |
+|---|---:|---:|
+| **Actual: No Churn** | 1,827 | 250 |
+| **Actual: Churn** | 329 | 412 |
 
 The model correctly identified **412 churned customers**, while **329 actual churners were not identified** by the model.
 
@@ -116,23 +117,25 @@ The Logistic Regression coefficients were examined to understand the direction o
 
 Some of the notable positive coefficients were:
 
-**| Variable        | Coefficient |**
-| Month-to-month    | **0.984** |
-| Fiber optic       | **0.547** |
-| One year          | **0.520** |
+| Variable | Coefficient |
+|---|---:|
+| Month-to-month | **0.984** |
+| Fiber optic | **0.547** |
+| One year | **0.520** |
 | Paperless Billing | **0.239** |
-| Multiple Lines    | **0.216** |
-| Electronic check  | **0.299** |
+| Multiple Lines | **0.216** |
+| Electronic check | **0.299** |
 
 Notable negative coefficients included:
 
-**| Variable        | Coefficient |**
-| Phone Service     | **-1.314** |
-| Online Security   | **-0.546** |
-| Tech Support      | **-0.439** |
-| Online Backup     | **-0.293** |
+| Variable | Coefficient |
+|---|---:|
+| Phone Service | **-1.314** |
+| Online Security | **-0.546** |
+| Tech Support | **-0.439** |
+| Online Backup | **-0.293** |
 | Device Protection | **-0.263** |
-| Tenure            | **-0.037** |
+| Tenure | **-0.037** |
 
 These coefficients indicate associations within the fitted model and should not be interpreted as causal effects.
 
