@@ -6,6 +6,12 @@ Customer churn is a major challenge for telecom companies because losing existin
 This project analyzes telecom customer data to identify **customer churn patterns, high-risk segments, and factors associated with customer attrition**.
 The project combines **Python-based statistical analysis and Logistic Regression** with an interactive **Power BI dashboard** to translate customer data into actionable business insights.
 
+##  Dataset
+
+**Dataset:** IBM Telco Customer Churn Dataset
+
+The project uses a publicly available telecom customer churn dataset containing customer demographics, service subscriptions, contract information, billing details and churn status.
+
 ---
 
 # Business Objectives
