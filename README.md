@@ -90,6 +90,7 @@ The model was evaluated using:
 ### Model Performance
 
   **|Metric | Result  |**
+  
 | Accuracy  | **79.45%** |
 | Precision | **62.24%** |
 | Recall    | **55.60%** |
