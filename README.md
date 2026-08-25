@@ -96,6 +96,8 @@ The model was evaluated using:
 | Recall | **55.60%** |
 | ROC-AUC | **84.43%** |
 
+<img width="547" height="413" alt="image" src="https://github.com/user-attachments/assets/bdf2eac6-024f-4094-9cbb-da406ace8e70" />
+
 The model achieved an ROC-AUC of **84.43%**, indicating good ability to distinguish between customers who churn and those who do not.
 
 However, the recall of **55.60%** indicates that there is scope to improve the identification of actual churners, particularly when minimizing missed churn-risk customers is a business priority.
@@ -106,6 +108,8 @@ However, the recall of **55.60%** indicates that there is scope to improve the i
 |---|---:|---:|
 | **Actual: No Churn** | 1,827 | 250 |
 | **Actual: Churn** | 329 | 412 |
+
+<img width="627" height="534" alt="image" src="https://github.com/user-attachments/assets/f5fe3e63-756b-4c8e-9cff-1823e65d9814" />
 
 The model correctly identified **412 churned customers**, while **329 actual churners were not identified** by the model.
 
