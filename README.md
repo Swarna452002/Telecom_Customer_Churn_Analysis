@@ -37,15 +37,19 @@ Churn status
 ---
 
 # Tools & Technologies
-Tool	Purpose
-Python	Data preparation, exploratory analysis & predictive modelling
-Pandas	Data manipulation
-NumPy	Numerical analysis
-Matplotlib & Seaborn	Data visualization
-Scikit-learn	Logistic Regression & model evaluation
-Power BI	Interactive dashboard & business analysis
-DAX	KPI calculations and measures
-GitHub	Project documentation and version control
+
+| Tool / Technology | Purpose                                                    |
+| ----------------- | ---------------------------------------------------------- |
+| **Python**        | Data analysis, exploratory analysis & predictive modelling |
+| **Pandas**        | Data cleaning, transformation & manipulation               |
+| **NumPy**         | Numerical operations & data processing                     |
+| **Matplotlib**    | Data visualization                                         |
+| **Seaborn**       | Statistical data visualization & pattern analysis          |
+| **Scikit-learn**  | Logistic Regression, model training & evaluation           |
+| **Power BI**      | Interactive dashboard development & business reporting     |
+| **DAX**           | KPI calculations & analytical measures                     |
+| **GitHub**        | Project documentation & version control                    |
+
 
 ---
 
