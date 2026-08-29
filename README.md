@@ -235,10 +235,4 @@ The model's **84.43% ROC-AUC** demonstrates useful discriminatory ability, but t
 
 Data Analysis | Data Cleaning | Exploratory Data Analysis | Statistical Modelling | Logistic Regression | Model Evaluation | Python | Pandas | NumPy | Scikit-learn | Power BI | DAX | Data Visualization | Customer Segmentation | Business Insights
 
-**Telecom_Customer_Churn_Analysis**
-│
-├── README.md
-├── Telecom_Customer_Churn_Analysis.ipynb
-├── Telecom_Customer_Churn_Analysis.pbix
-└── Telecom_Customer_Churn_Dashboard.pdf
 
