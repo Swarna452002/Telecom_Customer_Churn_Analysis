@@ -1,4 +1,4 @@
-**Telecom Customer Churn & Retention Analysis**
+# 📊 Telecom Customer Churn & Retention Analysis
 
 # Project Overview
 
@@ -26,13 +26,13 @@ Which customer segments should be prioritized for retention?
 
 The project uses a publicly available telecom customer churn dataset containing information on:
 
-Customer demographics
-Service subscriptions
-Contract information
-Billing details
-Payment methods
-Customer tenure
-Churn status
+- Customer demographics
+- Service subscriptions
+- Contract information
+- Billing details
+- Payment methods
+- Customer tenure
+- Churn status
 
 ---
 
@@ -240,8 +240,15 @@ Data Analysis | Data Cleaning | Exploratory Data Analysis | Statistical Modellin
 
 **Author**
 
-Swarnamayee Kar
+---
+
+## 👩‍💻 Author
+
+**Swarnamayee Kar**
+
 Business Analyst | Data Analyst
+
+[LinkedIn](https://www.linkedin.com/in/swarnamayee-kar-7827a528/)
 
 
 
