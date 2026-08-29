@@ -3,50 +3,49 @@
 # Project Overview
 
 Customer churn is a major challenge for telecom companies because losing existing customers can negatively impact recurring revenue and increase customer acquisition requirements.
-This project analyzes telecom customer data to identify **customer churn patterns, high-risk segments, and factors associated with customer attrition**.
-The project combines **Python-based statistical analysis and Logistic Regression** with an interactive **Power BI dashboard** to translate customer data into actionable business insights.
+
+This project analyzes telecom customer data to identify customer churn patterns, high-risk segments, and factors associated with customer attrition.
+
+The project combines Python-based exploratory and statistical analysis with Logistic Regression and an interactive Power BI dashboard to translate customer data into actionable business insights.
+
+**Business Objectives**
+
+The analysis aims to answer:
+
+What is the overall customer churn rate?
+Which contract types have the highest churn?
+How does customer tenure relate to churn?
+Which internet service categories show higher churn?
+Which payment methods are associated with higher churn?
+How does monthly charging relate to churn?
+Which customer segments should be prioritized for retention?
 
 ##  Dataset
 
 **Dataset:** IBM Telco Customer Churn Dataset
 
-The project uses a publicly available telecom customer churn dataset containing customer demographics, service subscriptions, contract information, billing details and churn status.
+The project uses a publicly available telecom customer churn dataset containing information on:
 
----
-
-# Business Objectives
-
-The analysis aims to answer:
-
-- What is the overall customer churn rate?
-- Which contract types have the highest churn?
-- How does customer tenure relate to churn?
-- Which internet service categories show higher churn?
-- Which payment methods are associated with higher churn?
-- How does monthly charging relate to churn?
-- Which customer segments should be prioritized for retention?
+Customer demographics
+Service subscriptions
+Contract information
+Billing details
+Payment methods
+Customer tenure
+Churn status
 
 ---
 
 # Tools & Technologies
-
-## Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-
-## Power BI
-- Data transformation
-- DAX measures
-- KPI development
-- Interactive dashboards
-- Data visualization
-- Customer segmentation
-
-## Other
-- GitHub for project documentation and version control
+Tool	Purpose
+Python	Data preparation, exploratory analysis & predictive modelling
+Pandas	Data manipulation
+NumPy	Numerical analysis
+Matplotlib & Seaborn	Data visualization
+Scikit-learn	Logistic Regression & model evaluation
+Power BI	Interactive dashboard & business analysis
+DAX	KPI calculations and measures
+GitHub	Project documentation and version control
 
 ---
 
@@ -234,5 +233,11 @@ The model's **84.43% ROC-AUC** demonstrates useful discriminatory ability, but t
 # Skills Demonstrated
 
 Data Analysis | Data Cleaning | Exploratory Data Analysis | Statistical Modelling | Logistic Regression | Model Evaluation | Python | Pandas | NumPy | Scikit-learn | Power BI | DAX | Data Visualization | Customer Segmentation | Business Insights
+
+**Author**
+
+Swarnamayee Kar
+Business Analyst | Data Analyst
+
 
 
